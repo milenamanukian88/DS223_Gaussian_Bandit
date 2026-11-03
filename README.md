@@ -93,4 +93,4 @@ Run the application:
 
 GitHub: https://github.com/milenamanukian88/DS223_Gaussian_Bandit
 
-Streamlit: Deployment link will be added after deployment.
+Streamlit: https://ds223gaussianbandit-p3w6iz4fjymb2uc8bg7jfa.streamlit.app
